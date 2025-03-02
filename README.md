@@ -1,4 +1,4 @@
-# CoinFlip Aleo Smart Contract
+# CoinFlip Aleo Program
 
 ## Overview
 
