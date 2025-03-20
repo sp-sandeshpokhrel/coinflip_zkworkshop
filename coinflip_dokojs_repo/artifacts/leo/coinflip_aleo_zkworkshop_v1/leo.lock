@@ -1,0 +1,13 @@
+[[package]]
+name = "credits.aleo"
+network = "testnet"
+location = "network"
+checksum = "a5e22b726bf4318d254a06d0b28ec7a0c86313a1cec2061925ad543e44bd45f1"
+dependencies = []
+
+[[package]]
+name = "token_registry.aleo"
+network = "testnet"
+location = "network"
+checksum = "5f2e12986034aa875cc84b65e0ef6cb279e13b06257b816b591e30d4943fac95"
+dependencies = []

@@ -1,0 +1,1 @@
+{"program":"coinflip_aleo_zkworkshop_v1.aleo","version":"0.1.0","description":"","license":"MIT","dependencies":[{"name":"credits.aleo","location":"network","endpoint":"http://localhost:3030","network":"testnet"},{"name":"token_registry.aleo","location":"network","endpoint":"http://localhost:3030","network":"testnet"}]}
